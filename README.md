@@ -12,8 +12,6 @@ This respository hosts the files I used to create my Kaggle submission for using
 # INDEX
 
 * [Background](#Background)
-   * [Description of Competition](#Description-of-Competition)
-   * [The Challenge](#The-Challenge)
 * [Jupyter](#Jupyter)
 * [credits](#credits)
 * [contact-info](#contact-info)
@@ -21,21 +19,42 @@ This respository hosts the files I used to create my Kaggle submission for using
 * [license](#license)
 
 
-## Background on Kaggle Competition
-### Description-of-Competition
-This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
+## Background on Kaggle Project 
 
-The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. n the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
 
-### The-Challenge
+This database is also available through the UW CS ftp server: ftp ftp.cs.wisc.edu cd math-prog/cpo-dataset/machine-learn/WDBC/
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+Attribute Information:
 
-While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+1) ID number 2) Diagnosis (M = malignant, B = benign) 3-32)
 
-In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+Ten real-valued features are computed for each cell nucleus:
+
+* a) radius (mean of distances from center to points on the perimeter) 
+* b) texture (standard deviation of gray-scale values) 
+* c) perimeter 
+* d) area 
+* e) smoothness (local variation in radius lengths) 
+* f) compactness (perimeter^2 / area - 1.0) 
+* g) concavity (severity of concave portions of the contour) 
+* h) concave points (number of concave portions of the contour) 
+* i) symmetry 
+* j) fractal dimension ("coastline approximation" - 1)
+
+The mean, standard error and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
+
+All feature values are recoded with four significant digits.
+
+Missing attribute values: none
+
+Class distribution: 357 benign, 212 malignant
+
+# Problem Statement:
+
+Find a Machine Learning (ML) model that accurately predicts breast cancer based on the 30 features extracted.
 
 ## Jupyter
 Jupyter Notebook(s) written in Python.
