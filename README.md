@@ -19,7 +19,8 @@ This respository hosts the files I used to create my Kaggle submission for using
 * [license](#license)
 
 
-## Background on Kaggle Project 
+## Background
+### Description of Kaggle Project 
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. n the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
 
@@ -61,7 +62,7 @@ Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [stevensmiley-kaggle-competition-titanic.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-Titanic/blob/master/Jupyter/stevensmiley-kaggle-competition-titanic.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
+| [ML for Diagnosing Breast Cancer - Steven Smiley.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/ML for Diagnosing Breast Cancer - Steven Smiley.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
 
 
 ## credits
@@ -81,26 +82,52 @@ Feel free to contact me to discuss any issues, questions, or comments.
 
 <br/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure0.png">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure1.Heatmap.png">
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure1.png">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure2.A_LR_Confusion_Matrix.png">
 <br/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure2.png">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure3.A_SVM_Confusion_Matrix.png">
 <br/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure3.png">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure4.A_MLP_Confusion_Matrix.png">
 <br/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure4.png">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure5.A_RF_Confusion_Matrix.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure5.B_RF_Variable_Importance_Plot.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure6.A_GB_Confusion_Matrix.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure6.B_GB_Variable_Importance_Plot.png">
+<br/>
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure7.A_XGB_Confusion_Matrix.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure7.B_XGB_Variable_Importance_Plot.png">
 <br/>
 </p>
 
