@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/GitHub_Images/BreastCancer_TitleGIF.gif">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/GitHub_Images/BreastCancer_TitleGIF.gif">
 </p>
 
 # Kaggle-Wisconsin-Breast-Cancer
