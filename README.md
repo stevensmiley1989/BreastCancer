@@ -62,7 +62,7 @@ Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [ML for Diagnosing Breast Cancer - Steven Smiley.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/ML for Diagnosing Breast Cancer - Steven Smiley.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
+| [ML for Diagnosing Breast Cancer - Steven Smiley.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/'ML for Diagnosing Breast Cancer - Steven Smiley.ipynb') | My Jupyter notebook written in Python for Kaggle competition. |
 
 
 ## credits
