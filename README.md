@@ -6,7 +6,7 @@
 # Kaggle-Wisconsin-Breast-Cancer
 ## Repository by Steven Smiley
 
-This respository hosts the files I used to create my Kaggle submission for using Machine Leanring to Diagnose Breast Cancer in Python using the Kaggle dataset from the Wisconsin Breast Cancer study.
+This respository hosts the files I used to create my Kaggle submission for using Machine Learning to Diagnose Breast Cancer in Python using the Kaggle dataset from the Wisconsin Breast Cancer study.
 
 
 # INDEX
