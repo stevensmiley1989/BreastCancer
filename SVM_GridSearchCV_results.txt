@@ -1,0 +1,9 @@
+Support Vector Machine (SVM)
+BEST PARAMS: {'C': 0.1, 'kernel': 'linear'}
+
+Support Vector Machine (SVM) 0.976 (+/-0.017) for {'C': 0.1, 'kernel': 'linear'}
+Support Vector Machine (SVM) 0.93 (+/-0.032) for {'C': 0.1, 'kernel': 'rbf'}
+Support Vector Machine (SVM) 0.971 (+/-0.03) for {'C': 1, 'kernel': 'linear'}
+Support Vector Machine (SVM) 0.971 (+/-0.036) for {'C': 1, 'kernel': 'rbf'}
+Support Vector Machine (SVM) 0.967 (+/-0.037) for {'C': 10, 'kernel': 'linear'}
+Support Vector Machine (SVM) 0.969 (+/-0.036) for {'C': 10, 'kernel': 'rbf'}
