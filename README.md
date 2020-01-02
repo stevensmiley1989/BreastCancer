@@ -73,9 +73,10 @@ Single input file (data.csv) contains all of the information for the Wisconsin B
 
 [data.csv](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/Inputs/data.csv)
 
-## Outputs
+## [Outputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs)
+The Outputs from the Jupyter notebook are placed in the following two folders: Models & Figures
 
-### Models
+### [Models](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs/Models)
 
 
 
