@@ -80,7 +80,7 @@ Single input file (data.csv) contains all of the information for the Wisconsin B
 
 
 
-### Figures
+### [Figures](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs/Figures)
 
 <br/>
 <p align="center">
