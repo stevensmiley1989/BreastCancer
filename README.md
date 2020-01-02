@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/GitHub_Images/BreastCancer_TitleGIF.gif">
 </p>
 
-# Kaggle-Wisconsin-Breast-Cancer
+# Kaggle-WisconsinBreastCancer
 ## Repository by Steven Smiley
 
 This respository hosts the files I used to create my Kaggle submission for using Machine Learning to Diagnose Breast Cancer in Python using the Kaggle dataset from the Wisconsin Breast Cancer study.
