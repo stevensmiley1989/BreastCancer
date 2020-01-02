@@ -66,7 +66,9 @@ Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python. |
+| [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python. |
+
+
 
 ## [3_Inputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Inputs)
 Single input file (data.csv) contains all of the information for the Wisconsin Breast Cancer dataset.
