@@ -11,20 +11,20 @@ This respository hosts the files I used to create my Kaggle submission for using
 
 # Table of Contents to Repository 
 
-* [1. Background](#1_Background)
-* [2. Jupyter Notebook](#Jupyter_Notebook)
-* [3. Inputs](#Inputs)
-   * [data.csv](#Inputs)
-* [4. Outputs](#Outputs)
-   * [Models](#Models)
-   * [Figures](#Figures)
-* [5. credits](#credits)
-* [6. contact-info](#contact-info)
-* [7. license](#license)
+* [1. Background](#1.Background)
+* [2. Jupyter Notebook](#2.Jupyter_Notebook)
+* [3. Inputs](#3.Inputs)
+   * [data.csv](#3.1Inputs)
+* [4. Outputs](#4.Outputs)
+   * [Models](#4.1Models)
+   * [Figures](#4.2Figures)
+* [5. credits](#5.credits)
+* [6. contact-info](#6.contact-info)
+* [7. license](#7.license)
 
 
 ## 1_Background
-### 1.1 Description of Kaggle Project 
+### 1.1.Description of Kaggle Project 
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. n the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
 
@@ -57,31 +57,31 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
-### 1.2 Problem Statement:
+### 1.2.Problem Statement:
 
 Find a Machine Learning (ML) model that accurately predicts breast cancer based on the 30 features extracted.
 
-## 2 Jupyter_Notebook
+## 2.Jupyter_Notebook
 Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python. |
 
-## [Inputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Inputs)
+## [3.Inputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Inputs)
 Single input file (data.csv) contains all of the information for the Wisconsin Breast Cancer dataset.
 
 [data.csv](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/Inputs/data.csv)
 
-## [Outputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs)
+## [4.Outputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs)
 The Outputs from the Jupyter notebook are placed in the following two folders: Models & Figures
 
-### [Models](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs/Models)
+### [4.1Models](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs/Models)
 
 
 
 
-### [Figures](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs/Figures)
+### [4.2Figures](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs/Figures)
 
 <br/>
 <p align="center">
@@ -134,11 +134,11 @@ The Outputs from the Jupyter notebook are placed in the following two folders: M
 <br/>
 </p>
 
-## credits
+## 5.credits
 
 * [Kaggle](https://www.kaggle.com/)
 
-## contact-info
+## 6.contact-info
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -147,7 +147,7 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
-### License
+### 7.License
 
 This repository contains a variety of content; some developed by Steven Smiley, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
