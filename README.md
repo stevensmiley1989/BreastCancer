@@ -23,8 +23,8 @@ This respository hosts the files I used to create my Kaggle submission for using
 * [license](#license)
 
 
-## Background
-### Description of Kaggle Project 
+## 1. Background
+### 1.1 Description of Kaggle Project 
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. n the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
 
@@ -57,7 +57,7 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
-# Problem Statement:
+## Problem Statement:
 
 Find a Machine Learning (ML) model that accurately predicts breast cancer based on the 30 features extracted.
 
@@ -66,9 +66,9 @@ Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
+| [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python. |
 
-## Inputs
+## [Inputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Inputs)
 Single input file (data.csv) contains all of the information for the Wisconsin Breast Cancer dataset.
 
 [data.csv](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/Inputs/data.csv)
