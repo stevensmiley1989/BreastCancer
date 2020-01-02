@@ -12,10 +12,13 @@ This respository hosts the files I used to create my Kaggle submission for using
 # INDEX
 
 * [Background](#Background)
-* [Jupyter](#Jupyter)
+* [Jupyter Notebook](#Jupyter_Notebook)
+* [Inputs](#Inputs)
+* [Outputs](#Outputs)
+   * [Models](#Models)
+   * [Figures](#Figures)
 * [credits](#credits)
 * [contact-info](#contact-info)
-* [images](#images)
 * [license](#license)
 
 
@@ -57,13 +60,74 @@ Class distribution: 357 benign, 212 malignant
 
 Find a Machine Learning (ML) model that accurately predicts breast cancer based on the 30 features extracted.
 
-## Jupyter
+## Jupyter_Notebook
 Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
 
+## Inputs
+
+## Outputs
+
+### Models
+
+
+
+
+### Figures
+
+<br/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure1.Heatmap.png">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure2.A_LR_Confusion_Matrix.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure3.A_SVM_Confusion_Matrix.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure4.A_MLP_Confusion_Matrix.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure5.A_RF_Confusion_Matrix.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure5.B_RF_Variable_Importance_Plot.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure6.A_GB_Confusion_Matrix.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure6.B_GB_Variable_Importance_Plot.png">
+<br/>
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure7.A_XGB_Confusion_Matrix.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure7.B_XGB_Variable_Importance_Plot.png">
+<br/>
+</p>
 
 ## credits
 
@@ -77,60 +141,6 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * GitHub: [stevensmiley1989](https://github.com/stevensmiley1989)
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
-
-## images
-
-<br/>
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure1.Heatmap.png">
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure2.A_LR_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure3.A_SVM_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure4.A_MLP_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure5.A_RF_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure5.B_RF_Variable_Importance_Plot.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure6.A_GB_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure6.B_GB_Variable_Importance_Plot.png">
-<br/>
-</p>
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure7.A_XGB_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Figure7.B_XGB_Variable_Importance_Plot.png">
-<br/>
-</p>
-
 
 ### License
 
