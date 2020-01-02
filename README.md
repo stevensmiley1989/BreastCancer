@@ -12,7 +12,8 @@ This respository hosts the files I used to create my Kaggle submission for using
 # INDEX
 
 * [Background](#Background)
-* [Jupyter](#Jupyter)
+* [Jupyter Notebook](#Jupyter_Notebook)
+* [Inputs](#Inputs)
 * [Outputs](#Outputs)
    * [Models](#Models)
    * [Figures](#Figures)
@@ -59,28 +60,23 @@ Class distribution: 357 benign, 212 malignant
 
 Find a Machine Learning (ML) model that accurately predicts breast cancer based on the 30 features extracted.
 
-## Jupyter
+## Jupyter_Notebook
 Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
 
+## Inputs
 
-## credits
+## Outputs
 
-* [Kaggle](https://www.kaggle.com/)
+### Models
 
-## contact-info
 
-Feel free to contact me to discuss any issues, questions, or comments.
 
-* Email: [stevensmiley1989@gmail.com](mailto:stevensmiley1989@gmail.com)
-* GitHub: [stevensmiley1989](https://github.com/stevensmiley1989)
-* LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
-* Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
-## Figures
+### Figures
 
 <br/>
 <p align="center">
@@ -133,6 +129,18 @@ Feel free to contact me to discuss any issues, questions, or comments.
 <br/>
 </p>
 
+## credits
+
+* [Kaggle](https://www.kaggle.com/)
+
+## contact-info
+
+Feel free to contact me to discuss any issues, questions, or comments.
+
+* Email: [stevensmiley1989@gmail.com](mailto:stevensmiley1989@gmail.com)
+* GitHub: [stevensmiley1989](https://github.com/stevensmiley1989)
+* LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
+* Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
 ### License
 
