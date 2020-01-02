@@ -14,6 +14,7 @@ This respository hosts the files I used to create my Kaggle submission for using
 * [Background](#Background)
 * [Jupyter Notebook](#Jupyter_Notebook)
 * [Inputs](#Inputs)
+   * [data.csv](#data.csv)
 * [Outputs](#Outputs)
    * [Models](#Models)
    * [Figures](#Figures)
@@ -68,6 +69,8 @@ Jupyter Notebook(s) written in Python.
 | [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
 
 ## Inputs
+### data.csv
+[data.csv](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/Inputs/data.csv)
 
 ## Outputs
 
