@@ -1,0 +1,7 @@
+Random Forest (RF)
+BEST PARAMS: {'max_depth': None, 'n_estimators': 500}
+
+Random Forest (RF) 0.947 (+/-0.026) for {'max_depth': 5, 'n_estimators': 500}
+Random Forest (RF) 0.954 (+/-0.043) for {'max_depth': 7, 'n_estimators': 500}
+Random Forest (RF) 0.954 (+/-0.038) for {'max_depth': 9, 'n_estimators': 500}
+Random Forest (RF) 0.956 (+/-0.031) for {'max_depth': None, 'n_estimators': 500}

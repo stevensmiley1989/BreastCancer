@@ -1,0 +1,10 @@
+Logistic Regression (LR)
+BEST PARAMS: {'C': 0.1}
+
+Logistic Regression (LR) 0.947 (+/-0.037) for {'C': 0.001}
+Logistic Regression (LR) 0.969 (+/-0.016) for {'C': 0.01}
+Logistic Regression (LR) 0.978 (+/-0.028) for {'C': 0.1}
+Logistic Regression (LR) 0.976 (+/-0.029) for {'C': 1}
+Logistic Regression (LR) 0.976 (+/-0.038) for {'C': 10}
+Logistic Regression (LR) 0.96 (+/-0.049) for {'C': 100}
+Logistic Regression (LR) 0.956 (+/-0.039) for {'C': 1000}
