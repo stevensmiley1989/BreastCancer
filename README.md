@@ -13,9 +13,11 @@ This respository hosts the files I used to create my Kaggle submission for using
 
 * [Background](#Background)
 * [Jupyter](#Jupyter)
+* [Outputs](#Outputs)
+   * [Models](#Models)
+   * [Figures](#Figures)
 * [credits](#credits)
 * [contact-info](#contact-info)
-* [images](#images)
 * [license](#license)
 
 
@@ -78,7 +80,7 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
-## images
+## Figures
 
 <br/>
 <p align="center">
