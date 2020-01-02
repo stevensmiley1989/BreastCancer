@@ -9,21 +9,21 @@
 This respository hosts the files I used to create my Kaggle submission for using Machine Learning to Diagnose Breast Cancer in Python using the Kaggle dataset from the Wisconsin Breast Cancer study.
 
 
-# INDEX
+# Table of Contents to Repository 
 
-* [Background](#Background)
-* [Jupyter Notebook](#Jupyter_Notebook)
-* [Inputs](#Inputs)
+* [1. Background](#1_Background)
+* [2. Jupyter Notebook](#Jupyter_Notebook)
+* [3. Inputs](#Inputs)
    * [data.csv](#Inputs)
-* [Outputs](#Outputs)
+* [4. Outputs](#Outputs)
    * [Models](#Models)
    * [Figures](#Figures)
-* [credits](#credits)
-* [contact-info](#contact-info)
-* [license](#license)
+* [5. credits](#credits)
+* [6. contact-info](#contact-info)
+* [7. license](#license)
 
 
-## 1. Background
+## 1_Background
 ### 1.1 Description of Kaggle Project 
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. n the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
@@ -57,11 +57,11 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
-## Problem Statement:
+### 1.2 Problem Statement:
 
 Find a Machine Learning (ML) model that accurately predicts breast cancer based on the 30 features extracted.
 
-## Jupyter_Notebook
+## 2 Jupyter_Notebook
 Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
