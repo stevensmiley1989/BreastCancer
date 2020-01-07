@@ -1,19 +1,19 @@
 # BreastCancer
 ## Repository by Steven Smiley
 
-This respository hosts the files I used to analyze and evaluate the Wisconsin Breast Cancer study in Python. 
+This respository hosts the files I used to analyze and evaluate the Wisconsin Diagnostic Breast Cancer (WDBC) dataset in Python. 
 
 
 # Table of Contents to Repository 
 * [1. Jupyter Notebook](#1)
-* [3. Inputs](#3)
-   * [data.csv](#3)
-* [4. Outputs](#4)
-   * [Models](#4.1)
-   * [Figures](#4.2)
-* [5. credits](#5)
-* [6. contact-info](#6)
-* [7. license](#7)
+* [2. Inputs](#2)
+   * [data.csv](#2)
+* [3. Outputs](#3)
+   * [Models](#3.1)
+   * [Figures](#3.2)
+* [4. credits](#4)
+* [5. contact-info](#5)
+* [6. license](#6)
 
 ## 1 Jupyter Notebook<a class="anchor" id="1"></a>
 Jupyter Notebook(s) written in Python.
@@ -21,6 +21,7 @@ Jupyter Notebook(s) written in Python.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](https://github.com/stevensmiley1989/BreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python. |
+| [Applied_ML_Bioinformatic_BP_WDBC.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/BreastCancer/blob/master/Applied_ML_Bioinformatic_BP_WDBC.ipynb) | My Jupyter notebook written in Python. |
 
 
 
