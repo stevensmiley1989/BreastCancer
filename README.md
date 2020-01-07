@@ -11,9 +11,9 @@ This respository hosts the files I used to analyze and evaluate the Wisconsin Di
 * [3. Outputs](#3)
    * [Models](#3.1)
    * [Figures](#3.2)
-* [4. credits](#4)
-* [5. contact-info](#5)
-* [6. license](#6)
+* [4. Credits/References](#4)
+* [5. Contact-Info](#5)
+* [6. License](#6)
 
 ## 1 Jupyter Notebook<a class="anchor" id="1"></a>
 Jupyter Notebook(s) written in Python.
@@ -33,7 +33,7 @@ Single input file (data.csv) contains all of the information for the Wisconsin B
 ## [3 Outputs](https://github.com/stevensmiley1989/BreastCancer/tree/master/Outputs)<a class="anchor" id="3"></a>
 The Outputs from the Jupyter notebook are placed in the following two folders: Models & Figures
 
-## 4 credits<a class="anchor" id="4"></a>
+## 4 Credits/References<a class="anchor" id="4"></a>
 
 ### 4.1 Wisconsin Diagnostic Breast Cancer (WDBC) dataset
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
@@ -78,7 +78,7 @@ https://arxiv.org/abs/1708.05070v2
 #### 4.3.7 scikit-Learn
 * Fabian Pedregosa, Gaël Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron Weiss, Vincent Dubourg, Jake Vanderplas, Alexandre Passos, David Cournapeau, Matthieu Brucher, Matthieu Perrot, Édouard Duchesnay. Scikit-learn: Machine Learning in Python, Journal of Machine Learning Research, 12, 2825-2830 (2011) 
 
-## 5 contact-info<a class="anchor" id="5"></a>
+## 5 Contact-Info<a class="anchor" id="5"></a>
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
