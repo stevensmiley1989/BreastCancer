@@ -20,8 +20,8 @@ Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](https://github.com/stevensmiley1989/BreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python. |
-| [Applied_ML_Bioinformatic_BP_WDBC.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/BreastCancer/blob/master/Applied_ML_Bioinformatic_BP_WDBC.ipynb) | My Jupyter notebook written in Python. |
+| [ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/BreastCancer/blob/master/ML_for_Diagnosing_Breast_Cancer-Steven_Smiley.ipynb) | My Jupyter notebook written in Python for Kaggle. |
+| [Applied_ML_Bioinformatic_BP_WDBC.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/BreastCancer/blob/master/Applied_ML_Bioinformatic_BP_WDBC.ipynb) | My Jupyter notebook written in Python for Medium. |
 
 
 
