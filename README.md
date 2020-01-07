@@ -15,7 +15,7 @@ This respository hosts the files I used to analyze and evaluate the Wisconsin Br
 * [6. contact-info](#6)
 * [7. license](#7)
 
-## 1 Jupyter_Notebook<a class="anchor" id="1"></a>
+## 1 Jupyter Notebook<a class="anchor" id="1"></a>
 Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
@@ -24,19 +24,34 @@ Jupyter Notebook(s) written in Python.
 
 
 
-## [3 Inputs](https://github.com/stevensmiley1989/BreastCancer/tree/master/Inputs)<a class="anchor" id="3"></a>
+## [2 Inputs](https://github.com/stevensmiley1989/BreastCancer/tree/master/Inputs)<a class="anchor" id="2"></a>
 Single input file (data.csv) contains all of the information for the Wisconsin Breast Cancer dataset.
 
 [data.csv](https://github.com/stevensmiley1989/BreastCancer/blob/master/Inputs/data.csv)
 
-## [4 Outputs](https://github.com/stevensmiley1989/BreastCancer/tree/master/Outputs)<a class="anchor" id="4"></a>
+## [3 Outputs](https://github.com/stevensmiley1989/BreastCancer/tree/master/Outputs)<a class="anchor" id="3"></a>
 The Outputs from the Jupyter notebook are placed in the following two folders: Models & Figures
 
-## 5 credits<a class="anchor" id="5"></a>
+## 4 credits<a class="anchor" id="4"></a>
 
-* [Kaggle](https://www.kaggle.com/)
+### 4.1 Wisconsin Diagnostic Breast Cancer (WDBC) dataset
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
-## 6 contact-info<a class="anchor" id="6"></a>
+`Creators of Wisconsin Diagnostic Breast Cancer (WDBC)`
+
+Dr. William H. Wolberg, General Surgery Dept., University of
+Wisconsin,  Clinical Sciences Center, Madison, WI 53792
+wolberg@eagle.surgery.wisc.edu
+
+W. Nick Street, Computer Sciences Dept., University of
+Wisconsin, 1210 West Dayton St., Madison, WI 53706
+street@cs.wisc.edu  608-262-6619
+
+Olvi L. Mangasarian, Computer Sciences Dept., University of
+Wisconsin, 1210 West Dayton St., Madison, WI 53706
+olvi@cs.wisc.edu 
+
+## 5 contact-info<a class="anchor" id="5"></a>
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -45,7 +60,7 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
-### 7 License <a class="anchor" id="7"></a>
+### 6 License <a class="anchor" id="6"></a>
 
 This repository contains a variety of content; some developed by Steven Smiley, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
