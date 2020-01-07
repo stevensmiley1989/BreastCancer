@@ -57,11 +57,11 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
-### 1.2_Problem Statement:
+### 1.2 Problem Statement:<a class="anchor" id="1.2"></a>
 
 Find a Machine Learning (ML) model that accurately predicts breast cancer based on the 30 features extracted.
 
-## 2_Jupyter_Notebook
+## 2 Jupyter_Notebook<a class="anchor" id="2"></a>
 Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
@@ -70,19 +70,19 @@ Jupyter Notebook(s) written in Python.
 
 
 
-## [3_Inputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Inputs)
+## [3 Inputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Inputs)<a class="anchor" id="3"></a>
 Single input file (data.csv) contains all of the information for the Wisconsin Breast Cancer dataset.
 
 [data.csv](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/blob/master/Inputs/data.csv)
 
-## [4_Outputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs)
+## [4 Outputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs)<a class="anchor" id="4"></a>
 The Outputs from the Jupyter notebook are placed in the following two folders: Models & Figures
 
-## 5_credits
+## 5 credits<a class="anchor" id="5"></a>
 
 * [Kaggle](https://www.kaggle.com/)
 
-## 6_contact-info
+## 6 contact-info<a class="anchor" id="6"></a>
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -91,7 +91,7 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
-### 7_License
+### 7 License <a class="anchor" id="7"></a>
 
 This repository contains a variety of content; some developed by Steven Smiley, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
