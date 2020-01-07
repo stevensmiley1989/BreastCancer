@@ -78,64 +78,6 @@ Single input file (data.csv) contains all of the information for the Wisconsin B
 ## [4_Outputs](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs)
 The Outputs from the Jupyter notebook are placed in the following two folders: Models & Figures
 
-### [4.1_Models](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs/Models)
-
-
-
-
-### [4.2_Figures](https://github.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/tree/master/Outputs/Figures)
-
-<br/>
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure1.Heatmap.png">
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure2.A_LR_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure3.A_SVM_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure4.A_MLP_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure5.A_RF_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure5.B_RF_Variable_Importance_Plot.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure6.A_GB_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure6.B_GB_Variable_Importance_Plot.png">
-<br/>
-</p>
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure7.A_XGB_Confusion_Matrix.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-WisconsinBreastCancer/master/Outputs/Figures/Figure7.B_XGB_Variable_Importance_Plot.png">
-<br/>
-</p>
-
 ## 5_credits
 
 * [Kaggle](https://www.kaggle.com/)
